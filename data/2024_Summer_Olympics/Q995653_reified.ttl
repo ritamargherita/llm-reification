@@ -1,0 +1,119 @@
+@prefix ns1: <http://www.wikidata.org/entity/> .
+
+ns1:Q995653 ns1:P1132 "10500" ;
+    ns1:P11892 "paris2024" ;
+    ns1:P12086 "Olympische_Zomerspelen_2024" ;
+    ns1:P12800 "fr:Jeux_olympiques_d'été_de_2024" ;
+    ns1:P13230 "050da64f-46b6-445e-8234-28839b13bb9c" ;
+    ns1:P13295 "304326" ;
+    ns1:P1448 "Jeux de la XXXIIIᵉ olympiade" ;
+    ns1:P1451 "Abramos a lo grande los Juegos",
+        "Games Wide Open",
+        "Obrim en gran els Jocs",
+        "Offene Spiele",
+        "Ouvrons grand les Jeux" ;
+    ns1:P154 <http://commons.wikimedia.org/wiki/Special:FilePath/2024%20Summer%20Olympics%20text%20logo.svg> ;
+    ns1:P1546 ns1:Q113288529 ;
+    ns1:P155 ns1:Q181278 ;
+    ns1:P156 ns1:Q1451505 ;
+    ns1:P1617 "7b08c7de-db1e-46be-b60b-3c1b290e0492" ;
+    ns1:P17 ns1:Q142 ;
+    ns1:P1705 "Jeux de la XXXIIIᵉ olympiade" ;
+    ns1:P18 <http://commons.wikimedia.org/wiki/Special:FilePath/2024%20Summer%20Olympics%20text%20logo.png> ;
+    ns1:P2002 "Paris2024" ;
+    ns1:P2003 "paris2024" ;
+    ns1:P2013 "Paris2024" ;
+    ns1:P2283 ns1:Q3236462 ;
+    ns1:P2397 "UCg4W1uf-i5X1nVaeWJsKuyA" ;
+    ns1:P2572 "Paris2024" ;
+    ns1:P2670 ns1:Q1190554,
+        ns1:Q212434 ;
+    ns1:P268 "17847234w" ;
+    ns1:P276 ns1:Q90 ;
+    ns1:P31 ns1:Q159821,
+        ns1:Q167170 ;
+    ns1:P3106 "sport/olympic-games-",
+        "sport/olympic-games-2024" ;
+    ns1:P3301 ns1:Q1124861,
+        ns1:Q21484379,
+        ns1:Q282595,
+        ns1:Q544560 ;
+    ns1:P3414 "1-70824880" ;
+    ns1:P3417 "2024-Summer-Olympics-in-Paris" ;
+    ns1:P3579 "7506489675" ;
+    ns1:P373 "2024 Summer Olympics" ;
+    ns1:P393 "33" ;
+    ns1:P3967 ns1:Q110321393 ;
+    ns1:P4264 "paris-2024-olympic-and-paralympic-games-bid" ;
+    ns1:P4290 ns1:Q125346793 ;
+    ns1:P4431 "paris-games-july-most-searched-playground" ;
+    ns1:P527 ns1:Q109038242,
+        ns1:Q109311608,
+        ns1:Q109311611,
+        ns1:Q109311612,
+        ns1:Q109311613,
+        ns1:Q109311614,
+        ns1:Q109311615,
+        ns1:Q109311616,
+        ns1:Q109311617,
+        ns1:Q109311619,
+        ns1:Q109311620,
+        ns1:Q109311621,
+        ns1:Q109317223,
+        ns1:Q109317224,
+        ns1:Q109317225,
+        ns1:Q109317227,
+        ns1:Q109317228,
+        ns1:Q109317229,
+        ns1:Q109317230,
+        ns1:Q109317231,
+        ns1:Q109317232,
+        ns1:Q109317233,
+        ns1:Q109317234,
+        ns1:Q109317235,
+        ns1:Q109317237,
+        ns1:Q109317238,
+        ns1:Q109317239,
+        ns1:Q109317240,
+        ns1:Q109317241,
+        ns1:Q109317243,
+        ns1:Q109317244,
+        ns1:Q109317245,
+        ns1:Q113557781,
+        ns1:Q44722008,
+        ns1:Q56378455 ;
+    ns1:P5337 "CAAqIggKIhxDQkFTRHdvSkwyMHZNR0oyTldZM0VnSmxiaWdBUAE" ;
+    ns1:P542 ns1:Q3052772 ;
+    ns1:P543 ns1:Q137575,
+        ns1:Q454396 ;
+    ns1:P545 ns1:Q228808,
+        ns1:Q353514 ;
+    ns1:P5551 "jeux-olympiques-2024" ;
+    ns1:P5558 "jeux-olympiques-2024" ;
+    ns1:P580 "2024-07-26T00:00:00Z" ;
+    ns1:P582 "2024-08-11T00:00:00Z" ;
+    ns1:P585 "2024-01-01T00:00:00Z" ;
+    ns1:P625 "Point(2.3522 48.8567)" ;
+    ns1:P6262 "olympics:Paris_2024" ;
+    ns1:P646 "/m/0bv5f7" ;
+    ns1:P6622 "sports/JO/paris-2024" ;
+    ns1:P664 ns1:Q48755721 ;
+    ns1:P6760 "43598" ;
+    ns1:P6900 "パリオリンピック(2024年)" ;
+    ns1:P691 "xx0321510" ;
+    ns1:P7085 "paris2024officiel" ;
+    ns1:P793 ns1:Q110321308 ;
+    ns1:P8136 "parigi-2024" ;
+    ns1:P822 ns1:Q115211476 ;
+    ns1:P8309 "18-146187" ;
+    ns1:P856 <https://olympics.com/fr/paris-2024> ;
+    ns1:P8687 "378767",
+        "558000" ;
+    ns1:P8885 "2024 파리 올림픽" ;
+    ns1:P910 ns1:Q9745189 ;
+    ns1:P9346 "jo-de-paris-2024",
+        "jo-de-paris-2024-1" ;
+    ns1:P935 "2024 Summer Olympics" ;
+    ns1:P9937 "751614",
+        "757198" .
+
